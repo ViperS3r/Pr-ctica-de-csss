@@ -1,0 +1,59 @@
+ESTILO.CSS
+ #Id1{
+  margin-left: 60px;
+  margin-right: 40px;
+  margin-top: 0px;
+  margin-bottom:0px;
+  background: gray;
+  width:200px;
+  height:400px;
+}
+
+
+ #Id2{
+  margin-left: 52px;
+  margin-right: 30px;
+  margin-top: 5px;
+  margin-bottom: 0px;
+  background: green;
+  width:150px;
+  height:400px;
+}
+
+
+ #Id3{
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  background: red;
+  width:100px;
+  height:200px;   
+ } 
+
+
+h1{
+  color: white;
+  font-size: 18px;
+  decoration: underline;
+  margin: auto
+}
+  
+#imagen{
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  background: red;
+  width:30px;
+  height:20px;
+}
+
+
+
+p{
+  margin: auto;
+  font-size:20px;
+  background-color:gold;
+  font-family: Arial
+}
